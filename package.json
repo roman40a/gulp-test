@@ -1,0 +1,19 @@
+{
+  "name": "gulp-get-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "inject": "node node_modules/gulp/bin/gulp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-inject": "^4.3.0"
+  }
+}
